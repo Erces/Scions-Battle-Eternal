@@ -4,6 +4,8 @@
 
   I worked on **Scions: Battle Eternal** while I worked at **"Project Flying Cat"**. I can't share any codes from that project due to it is not my own project I worked at under a company. Mainly **I did** the game mechanic codes like quest system, minimap system, random map generator etc. . There is a **playable demo on steam**.
 
+  https://store.steampowered.com/app/2198390/Scions_Battle_Eternal/
+
 - ABOUT THIS GAME
 
 Scions: Battle Eternal is a skill-based action rogue-like game featuring a unique world with variously themed areas and multiple playing characters with different talents and skill sets to choose from. The aim is to navigate through random-generated levels to enhance and strengthen the player character by accumulating experience at each run and unlocking character-specific spells, weapons, talents, and abilities by allocating experience points. The players can differentiate each character by combining the various spells, weapons, talents, and abilities according to their preferences and play style.
