@@ -1,5 +1,7 @@
 # Scions-Battle-Eternal
 
+![scns](https://github.com/Erces/Scions-Battle-Eternal/assets/51009171/94931f12-a715-4e30-b929-62d85f15e80a)
+
   I worked on **Scions: Battle Eternal** while I worked at **"Project Flying Cat"**. I can't share any codes from that project due to it is not my own project I worked at under a company. Mainly **I did** the game mechanic codes like quest system, minimap system, random map generator etc. . There is a **playable demo on steam**.
 
 - ABOUT THIS GAME
